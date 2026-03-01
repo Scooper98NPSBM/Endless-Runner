@@ -1,5 +1,5 @@
-The player will be able to run, jump and slid. Contact with enemies will result in the players death and the game will restart.
-The player will collet gems that can be used to purchase upgrades. One such upgrading being increased speed. 
+The player will be able to run, and jump. Contact with enemies will result in the players death and the game will restart.
+The player will collect gems that can be used to purchase upgrades. One such upgrading being increased speed. 
 The upgrades will get more expensive with each purchase. 
-The game scene will get increasenly more difficult with obstacles to jump on/ up and over and slid under
-Enenmies will result in the player's death (and the game restarting) 
+The game scene will get increasenly more difficult with obstacles to jump on/ over
+Falling when there is no ground under the player will result in the player's death and the game restarting. 
